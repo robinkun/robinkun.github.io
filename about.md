@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+　このページはJekyllを使用して作られています。現在開発中です。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+　現在Jekyllのデフォルトのテーマです。他のJekyllのテーマ、ドキュメントは[jekyllrb.com](http://jekyllrb.com/)にあります。
+
+　Jekyllの新しいテーマのソースコードは[github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)にあります。
+
+　Jekyllのソースコードは [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)です。
