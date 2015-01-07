@@ -41,7 +41,7 @@ function makeArray() {
 function update() {
   draw();
   if(!dropBlock()) {
-    //deletePuyo();
+    deletePuyo();
     makePuyo();
   }
 
@@ -52,10 +52,11 @@ function deletePuyo() {
   for(var i = 0; i < C_HEIGHT; i++) {
     for(var j = 0; j < C_WIDTH; j++) {
       if(cell[j][i] != 0) {
-        var num = countPuyoJoin(j, i);
+        //var num = countPuyoJoin(j, i);
+        /*
         if(num >= DEL_NUM) {
           deletePuyoJoin(j, i, cell[j][i]);
-        }
+        }*/
       }
     }
   }
