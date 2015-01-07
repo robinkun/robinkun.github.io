@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>robinkun jekyll blog</title>
+    <title>moni</title>
     <description>なんてブログだ
 </description>
     <link>http://robinkun.github.io/</link>
     <atom:link href="http://robinkun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jan 2015 19:44:02 +0900</pubDate>
-    <lastBuildDate>Mon, 05 Jan 2015 19:44:02 +0900</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2015 22:40:58 +0900</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2015 22:40:58 +0900</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>テスト</title>
+        <description>&lt;p&gt;watashi ha test!&lt;br /&gt;
+uhhyohyo~  &lt;/p&gt;
+
+&lt;h1 id=&quot;prints-hi-tom-to-stdout&quot;&gt;=&amp;gt; prints ‘Hi, Tom’ to STDOUT.&lt;/h1&gt;
+
+</description>
+        <pubDate>Wed, 07 Jan 2015 21:21:21 +0900</pubDate>
+        <link>http://robinkun.github.io/doudemo/ii/2015/01/07/hajimete.html</link>
+        <guid isPermaLink="true">http://robinkun.github.io/doudemo/ii/2015/01/07/hajimete.html</guid>
+        
+        
+        <category>doudemo</category>
+        
+        <category>ii</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
