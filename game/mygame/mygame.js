@@ -41,7 +41,7 @@ function makeArray() {
 function update() {
   draw();
   if(!dropBlock()) {
-    deletePuyo();
+    //deletePuyo();
     makePuyo();
   }
 
